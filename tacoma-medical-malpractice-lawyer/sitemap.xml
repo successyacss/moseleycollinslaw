@@ -5,47 +5,119 @@
           xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
      <url>
+                 <loc>news.html</loc>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/what-is-the-role-of-a-medical-malpractice-lawyer-in-your-legal-case.html</loc>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/what-is-the-process-for-hiring-a-medical-malpractice-lawyer.html</loc>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/how-to-choose-the-right-medical-malpractice-lawyer-7-crucial-tips-you-need-to-know.html</loc>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/how-to-maximize-your-compensation-in-a-medical-malpractice-case-insider-secrets-revealed.html</loc>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>news/the-role-and-importance-of-a-medical-malpractice-lawyer-in-patient-advocacy.html</loc>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
                  <loc>index.html</loc>
-                 <lastmod>2024-08-21T06:35:21+00:00</lastmod>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>why-our-firm-is-uniquely-qualified-to-litigate-your-case.html</loc>
-                 <lastmod>2024-08-21T06:35:21+00:00</lastmod>
+                 <loc>types-of-medical-malpractice.html</loc>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>tacoma-areas-and-pierce-county-communities-we-serve.html</loc>
-                 <lastmod>2024-08-21T06:35:21+00:00</lastmod>
+                 <loc>legal-standards-and-burdens-of-proof.html</loc>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>examples-of-severe-injuries-caused-by-healthcare-errors.html</loc>
-                 <lastmod>2024-08-21T06:35:21+00:00</lastmod>
+                 <loc>statute-of-limitations-in-medical-malpractice-cases.html</loc>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>an-overview-of-how-a-medical-malpractice-lawsuit-progresses.html</loc>
-                 <lastmod>2024-08-21T06:35:21+00:00</lastmod>
+                 <loc>role-of-expert-witnesses-in-medical-malpractice-trials.html</loc>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
-                 <loc>tacomas-major-regional-medical-centers.html</loc>
-                 <lastmod>2024-08-21T06:35:21+00:00</lastmod>
+                 <loc>compensation-and-damages-in-medical-malpractice.html</loc>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>legal-representation-in-medical-malpractice-cases.html</loc>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>finding-a-qualified-medical-malpractice-lawyer.html</loc>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>attorneyclient-relationship-and-communication.html</loc>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>contingency-fee-arrangements-for-legal-services.html</loc>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>preparing-for-a-consultation-with-a-lawyer.html</loc>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>understanding-the-litigation-process.html</loc>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>patient-rights-and-advocacy.html</loc>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>informed-consent-and-patient-autonomy.html</loc>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>reporting-medical-errors-or-negligence.html</loc>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>patient-safety-organizations-and-resources.html</loc>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>support-groups-for-victims-of-medical-malpractice.html</loc>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>legislative-changes-impacting-patient-rights.html</loc>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>privacy-policy.html</loc>
-                 <lastmod>2024-08-21T06:35:21+00:00</lastmod>
-                 <priority>0.80</priority>
-               </url> <url>
-                 <loc>feed.xml</loc>
-                 <lastmod>2024-08-21T06:35:21+00:00</lastmod>
-                 <priority>0.80</priority>
-               </url> <url>
-                 <loc>sitemap.xml</loc>
-                 <lastmod>2024-08-21T06:35:21+00:00</lastmod>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>sitemap.html</loc>
-                 <lastmod>2024-08-21T06:35:21+00:00</lastmod>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>sitemap.xml</loc>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url> <url>
                  <loc>about-us.html</loc>
-                 <lastmod>2024-08-21T06:35:21+00:00</lastmod>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
+                 <priority>0.80</priority>
+               </url> <url>
+                 <loc>feed.xml</loc>
+                 <lastmod>2024-08-21T08:51:36+00:00</lastmod>
                  <priority>0.80</priority>
                </url></urlset>
